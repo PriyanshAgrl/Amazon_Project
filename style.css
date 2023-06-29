@@ -9,6 +9,11 @@ a {
     color: white;
 }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 /* header {
     width: 100vw;
     position: fixed;
@@ -161,7 +166,7 @@ a {
 .heroSection {
     background-image: url(/assets/Hero_3000x1200.jpg);
     background-size: cover;
-    height: 360px;
+    height: 45vh;
 }
 
 .products {
@@ -174,7 +179,7 @@ a {
 
 .polaroids {
     background-color: white;
-    height: 420px;
+    height: 53vh;
     width: 22%;
     margin: 20px 0px 15px;
 }
@@ -221,6 +226,7 @@ a {
 
 .box9 p {
     color: #007185;
+    margin-left: 30px;
 }
 
 /* FOOTER */
@@ -273,10 +279,11 @@ a {
 
 .baselogo {
     background-image: url(/assets/amazon_logo.png);
-    background-size: cover;
-    height: 40px;
-    width: 140px;
-    padding: 25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90px;
+    width: 160px;
+    max-width: 100%;
 
 }
 
