@@ -47,7 +47,7 @@ img {
 }
 
 .logo {
-    background-image: url(/assets/amazon_logo.png);
+    background-image: url(./assets/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -164,7 +164,7 @@ img {
     width: 100vw;
 } */
 .heroSection {
-    background-image: url(/assets/Hero_3000x1200.jpg);
+    background-image: url(./assets/Hero_3000x1200.jpg);
     background-size: cover;
     height: 45vh;
 }
@@ -278,7 +278,7 @@ img {
 }
 
 .baselogo {
-    background-image: url(/assets/amazon_logo.png);
+    background-image: url(./assets/amazon_logo.png);
     background-size: contain;
     background-repeat: no-repeat;
     height: 90px;
