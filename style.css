@@ -42,7 +42,7 @@ a {
 }
 
 .logo {
-    background-image: url(/AmazonNavLogo-removebg-preview.png);
+    background-image: url(/assets/AmazonNavLogo-removebg-preview.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -159,7 +159,7 @@ a {
     width: 100vw;
 } */
 .heroSection {
-    background-image: url(/Hero_3000x1200.jpg);
+    background-image: url(/assets/Hero_3000x1200.jpg);
     background-size: cover;
     height: 360px;
 }
@@ -272,7 +272,7 @@ a {
 }
 
 .baselogo {
-    background-image: url(/AmazonNavLogo-removebg-preview.png);
+    background-image: url(/assets/AmazonNavLogo-removebg-preview.png);
     background-size: cover;
     height: 40px;
     width: 140px;
