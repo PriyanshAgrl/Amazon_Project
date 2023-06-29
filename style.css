@@ -42,7 +42,7 @@ a {
 }
 
 .logo {
-    background-image: url(/assets/AmazonNavLogo-removebg-preview.png);
+    background-image: url(/assets/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -272,7 +272,7 @@ a {
 }
 
 .baselogo {
-    background-image: url(/assets/AmazonNavLogo-removebg-preview.png);
+    background-image: url(/assets/amazon_logo.png);
     background-size: cover;
     height: 40px;
     width: 140px;
